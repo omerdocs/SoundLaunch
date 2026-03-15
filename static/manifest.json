@@ -1,0 +1,14 @@
+{
+  "name": "SoundLaunch",
+  "short_name": "SoundLaunch",
+  "description": "Soundpad Web Launchpad",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#0a0a0a",
+  "orientation": "any",
+  "icons": [
+    { "src": "/static/icon.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/static/icon.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
