@@ -4,6 +4,14 @@
 
 # SoundLaunch
 
+## ⚠️ Antivirüs Uyarısı
+
+SoundLaunch.exe bazı antivirüs programlarında yanlış uyarı tetikleyebilir.
+Bu, PyInstaller ile derlenen tüm Python programlarında görülen yaygın bir
+false positive durumudur. Kaynak kodun tamamı bu repoda incelenebilir.
+
+Emin olmak isteyenler kodu kendisi derleyebilir: `build.bat`
+
 **Soundpad için web tabanlı launchpad.**  
 Telefonunu kumandaya çevir. Tuş kombinasyonu yok, kablo yok, zahmetsiz.
 
@@ -184,8 +192,4 @@ Pull request, issue veya öneri için çekinme. Bu proje küçük ama kullanış
 
 ---
 
-<div align="center">
 
-*Klavyene dokunmadan meme yapmak için yapıldı.*
-
-</div>
